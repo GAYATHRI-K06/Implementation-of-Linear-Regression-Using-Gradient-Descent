@@ -116,9 +116,14 @@ print("For population = 70,000, we predict a profit of $"+str(round(predict2,0))
 ![image](https://github.com/user-attachments/assets/117865b9-c2e1-4a34-9a23-7d4fa82d52a7)
 ### Compute Cost Value :
 ![image](https://github.com/harini1006/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/113497405/9e384697-fc9f-4277-92c1-841b285cd101)
-
-
-
+### h(x) Value :
+![image](https://github.com/harini1006/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/113497405/d8b272d5-104d-4cdb-942c-b849e8b54300)
+### Cost function using Gradient Descent Graph :
+![image](https://github.com/harini1006/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/113497405/c1ac8e0b-f252-4aac-8984-2c9f00da624a)
+### Profit for the Population 35,000 :
+![image](https://github.com/harini1006/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/113497405/61aad46d-b2d2-47d7-a7d7-ece05043cf30)
+### Profit for the Population 70,000 :
+![image](https://github.com/harini1006/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/113497405/70f9f953-a1da-4225-be06-19b89e9b42fe)
 
 ## Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
