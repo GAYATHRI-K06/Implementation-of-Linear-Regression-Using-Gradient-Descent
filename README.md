@@ -21,8 +21,7 @@ To write a program to predict the profit of a city using the linear regression m
 Program to implement the linear regression using gradient descent.
 Developed by: GAYATHRI.K
 RegisterNumber:212223230061
-```
-```python
+
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
@@ -111,7 +110,14 @@ print("For population = 70,000, we predict a profit of $"+str(round(predict2,0))
 ```
 
 ## Output:
-![linear regression using gradient descent](sam.png)
+### Profit Prediction Graph :
+![image](https://github.com/user-attachments/assets/1e0c15c2-80ce-4451-bd5a-b705a642798e)
+
+![image](https://github.com/user-attachments/assets/117865b9-c2e1-4a34-9a23-7d4fa82d52a7)
+### Compute Cost Value :
+![image](https://github.com/harini1006/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/113497405/9e384697-fc9f-4277-92c1-841b285cd101)
+
+
 
 
 ## Result:
