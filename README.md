@@ -15,7 +15,8 @@ To write a program to predict the profit of a city using the linear regression m
 4. Plot the Cost function using Gradient Descent and generate the required graph. 
 
 ## Program:
-
+``````
+```
  /*
  Program to implement the linear regression using gradient descent.
  Developed by: GAYATHRI.K
@@ -49,6 +50,8 @@ prediction=np.dot(np.append(1,new_Scaled),theta)
  prediction=prediction.reshape(-1,1)
  pre=scaler.inverse_transform(prediction)
  print(f"Predicted value: {pre}"
+```````
+`````
 
 ## Output:
 ![image](https://github.com/user-attachments/assets/63753f11-b010-4afb-9e42-c0056c305e5d)
