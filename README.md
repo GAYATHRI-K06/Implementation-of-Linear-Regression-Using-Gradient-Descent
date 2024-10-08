@@ -16,7 +16,6 @@ To write a program to predict the profit of a city using the linear regression m
 
 ## Program:
 ``````
-```
  /*
  Program to implement the linear regression using gradient descent.
  Developed by: GAYATHRI.K
@@ -49,14 +48,11 @@ To write a program to predict the profit of a city using the linear regression m
 prediction=np.dot(np.append(1,new_Scaled),theta)
  prediction=prediction.reshape(-1,1)
  pre=scaler.inverse_transform(prediction)
- print(f"Predicted value: {pre}"
-```````
+ print(f"Predicted value: {pre}")
+``````
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/63753f11-b010-4afb-9e42-c0056c305e5d)
-![image](https://github.com/user-attachments/assets/add13965-73d1-44e7-87b9-ba1841d00faa)
+![image](https://github.com/user-attachments/assets/ac83a423-445c-4d8a-8335-d4a12d94dc59)
 
-
-![image](https://github.com/user-attachments/assets/70c1c26d-56c5-47fc-8694-f6290f4cb62e)
 
 ## Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
